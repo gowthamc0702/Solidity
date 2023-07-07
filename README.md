@@ -1,3 +1,3 @@
 # Solidity
 
-This is my beginer code to learn solidity basics
+These are some of my solidity programs . Hope you'll like it.
